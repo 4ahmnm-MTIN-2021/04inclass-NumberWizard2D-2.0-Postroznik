@@ -1,28 +1,24 @@
-# Template2D-Unity202015f1
+# NumberWizard_Postroznik
 
 ### Project description: 
-Introduction/Project summary 
+Number Wizard guess your Number
 
 ### Development platform: 
-(OS, Unity Version, Visual Studio Version, used SDKs)
+(Windows, Unity 2020.1.5f.1, Visual Studio 2019)
 
 ### Target platform: 
-WebGL, Mobile, VR Device incl. reference resolution 
+WebGL, incl. HD resolution 
 
 ### Visuals: 
-Screenshots (concept and experience), Video
-
-### Necessary setup/execution steps: 
-Installation process, e.g. step by step instructions that I can run the project after cloning it
-
-### Third party material: 
-(if used Fonts, Sounds, Music, Graphics, Materials, Code etc.)
+![screenshot](https://github.com/4ahmnm-MTIN-2021/04inclass-NumberWizard2D-2.0-Postroznik/blob/main/PlayGIF_Postroznik.gif)
 
 ### Project state: 
-incl. progress in percent
+95%
 
 ### Limitations: 
+Know how to display name in the end scene
 
 ### Lessons Learned: 
+Switch between scenes by press Button
 
 Copyright by Postroznik
